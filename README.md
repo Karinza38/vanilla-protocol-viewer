@@ -1,4 +1,4 @@
-# Minimalistic DevTools Protocol Viewer
+ Minimalistic DevTools Protocol Viewer
 
 * Loads protocol descriptions from [DevTools Protocol](https://github.com/ChromeDevTools/devtools-protocol) github mirror
 * **Blazingly fast**. There are no roundtrips to the server to perform search or to render a page.
